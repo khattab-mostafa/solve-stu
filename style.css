@@ -1,0 +1,33 @@
+body{
+    background-color: rgba(221,167,161,.548);
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+h1{
+    color: saddlebrown;
+    text-align: center;
+    box-shadow: 10px 5px 7px 1px;
+    border-radius: 20px;
+    transition: all 1s;
+}
+h1:hover{
+    text-shadow: 4px 1px 1px black;
+}
+
+h2{
+    color: rgb(156,76,5);
+    text-align: right;
+}
+h3{
+    color: saddlebrown;
+    text-align: right;
+}
+img{
+    width: 350px;
+    border: 10px saddlebrown double;
+    border-radius: 50px;
+    transition: all 1s;
+}
+img:hover{
+    box-shadow: 10px 5px 7px black;
+}
